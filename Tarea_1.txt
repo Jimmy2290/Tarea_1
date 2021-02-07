@@ -1,0 +1,8 @@
+Tarea 1
+
+
+1.Por qué es importante crear repositorios en un proyecto de software?
+
+R1// La importancia de la creación de un repositorio para un proyecto de software., es que mediante este, 
+se pueden llevar un historial de cambios que realizados en el código fuente de la aplicación y así mismo 
+se puede conocer que desarrollador fue el que realizo los cambios.
