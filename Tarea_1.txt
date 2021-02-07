@@ -6,3 +6,10 @@ Tarea 1
 R1// La importancia de la creación de un repositorio para un proyecto de software., es que mediante este, 
 se pueden llevar un historial de cambios que realizados en el código fuente de la aplicación y así mismo 
 se puede conocer que desarrollador fue el que realizo los cambios.
+
+
+2.Describa 2 ventajas de crear repositorios en un proyecto de software.
+R2// dentro de las ventajas que tiene el uso de un repositorio están, que pueden trabajar mas de un 
+desarrollador en el mismo proyecto a la vez y luego mandar los cambios para su actualización final, 
+también se puede registrar el día a día de un proyecto, ademas de que se pueden añadir nueva funciones 
+al mismo.
